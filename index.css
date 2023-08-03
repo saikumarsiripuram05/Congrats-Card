@@ -1,0 +1,25 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #0f172a;
+  margin-bottom: 20px;
+}
+.personCard {
+  background-color: #cffafe;
+  padding: 30px;
+  text-align: center;
+  border-radius: 30px;
+}
+img {
+  margin-top: 20px;
+}
